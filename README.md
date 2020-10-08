@@ -1,2 +1,4 @@
 # route_table_compare
-Simple Python Script to compare routing table pre and post change
+Networks are becoming increasingly complex and changes done to devices have unintended consequences.  Theses simply python scripts capture the routing table of Juniper devices before and after the change is made.  
+
+
