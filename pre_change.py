@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 
-# Filename:                     netmiko-tutorial.py
-# Command to run the program:   python netmiko-tutorial.py
-
 from netmiko import ConnectHandler
 import sys, getopt
 import argparse
